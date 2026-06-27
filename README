@@ -1,0 +1,6 @@
+-- foreach - a small library that was created just to test how works go library system
+
+use:
+go get github.com/egevtech/foreach
+
+--- Library reference will be available soon. Or not
